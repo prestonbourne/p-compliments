@@ -1,8 +1,8 @@
 {
   "name": "p-compliments",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Preston Bourne",
-  "main": "dist/main.js",
+  "main": "main.js",
   "description": "A short cute little compliment generator",
   "license": "ISC",
   "scripts": {

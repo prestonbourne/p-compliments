@@ -50,4 +50,4 @@ export const compliments = [
     "You're crazy cool!",
     "This package rocks but not as much as you!",
     "50 + 150 = Your IQ!"
-    ] as const;
+    ];

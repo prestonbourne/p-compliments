@@ -1,6 +1,6 @@
 import { getCompliment } from "../main";
 import { compliments } from "../compliments";
-import { expect, test, describe, it } from "bun:test";
+import { expect, describe, it } from "bun:test";
 
 describe("getCompliment", () => {
   it("should return a compliment", () => {
