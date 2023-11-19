@@ -1,0 +1,17 @@
+{
+  "name": "p-compliments",
+  "version": "1.0.0",
+  "author": "Preston Bourne",
+  "main": "main.ts",
+  "description": "A short cute little compliment generator",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
