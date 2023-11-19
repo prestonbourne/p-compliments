@@ -5,8 +5,7 @@
     "target": "esnext",
     "moduleResolution": "bundler",
     "moduleDetection": "force",
-    "allowImportingTsExtensions": true,
-    "outDir": "dist", // Specify the output directory as "dist"
+    "outDir": "./dist", // Specify the output directory as "dist"
     "noEmit": true, // Set to false to enable emitting compiled files
     "composite": true,
     "strict": true,
