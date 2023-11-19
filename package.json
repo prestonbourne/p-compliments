@@ -1,8 +1,9 @@
 {
   "name": "nice-guy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Preston Bourne",
   "main": "main.js",
+  "type": "module",
   "description": "A short cute little compliment generator",
   "license": "ISC",
   "scripts": {
